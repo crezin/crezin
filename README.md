@@ -1,13 +1,23 @@
 ### Hi there 👋
 
-- 🌱I'm interested in a backend career
-- 🧑‍🎓studying computer engineering within the 5nd period
+I'm **Cremilson Pereira Nunes Junior**  
 
-  
-[![linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cremilson-pereira-nunes-junior-a8921b267)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cremilson_jr/)
+- 🎓 Computer Engineering student (5th semester)
+- 💻 Interested in **Backend Development**
+- 🚀 Passionate about technology, programming and problem solving
+- 📚 Currently improving my skills in **C++, Java, Linux and Git**
 
+---
 
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cremilson-pereira-nunes-junior-a8921b267)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cremilson_jr/)
+
+---
+
+### 📊 GitHub Stats
 
 ![CJ GitHub stats](https://github-readme-stats.vercel.app/api?username=crezin&show_icons=true&theme=dark)
 
