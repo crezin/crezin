@@ -20,4 +20,4 @@ I'm **Cremilson Pereira Nunes Junior**
 ### 📊 GitHub Stats
 
 
-![Cremilson GitHub stats](https://github-readme-stats.vercel.app/api?username=crezin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crezin&layout=compact&theme=tokyonight)
