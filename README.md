@@ -20,5 +20,6 @@ I'm **Cremilson Pereira Nunes Junior**
 ### 📊 GitHub Stats
 
 ![CJ GitHub stats](https://github-readme-stats.vercel.app/api?username=crezin&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crezin&size_weight=0.5&count_weight=0.5&theme=dark)
