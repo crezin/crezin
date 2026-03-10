@@ -19,6 +19,8 @@ I'm **Cremilson Pereira Nunes Junior**
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crezin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crezin&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crezin)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crezin&layout=compact&theme=dracula)
